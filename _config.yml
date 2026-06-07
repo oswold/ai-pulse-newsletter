@@ -1,2 +1,3 @@
-theme: jekyll-theme-minimal  # or another theme
+theme: jekyll-theme-minimal
 markdown: kramdown
+permalink: /:path/
